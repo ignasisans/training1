@@ -18,3 +18,11 @@ change 1 from master
 
 change 2 from master
 
+---
+
+change 1 from branch
+
+---
+
+change 2 from branch
+
