@@ -5,3 +5,9 @@ File created from Eclipse
 
 Conflicts test
 
+MERGE OF FILES
+
+File created from github
+
+File to generate conflicts with project
+
