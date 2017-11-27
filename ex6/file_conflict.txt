@@ -1,0 +1,7 @@
+###################
+File created from Eclipse
+
+---
+
+Conflicts test
+
