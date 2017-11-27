@@ -11,3 +11,5 @@ File created from github
 
 File to generate conflicts with project
 
+---
+change for ex 7
